@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @archangelias
-- 👀 I’m interested in Obsidian.
-- 🌱 I’m currently learning information science.
+- 👀 I’m interested in digital archiving.
+- 🌱 I have a Bachelor in Information science.
 
 <!---
 archangelias/archangelias is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
