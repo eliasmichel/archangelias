@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @archangelias
+- 👋 Hi, I’m @eliasmichel
 - 👀 I’m interested in digital archiving.
 - 🌱 I have a Bachelor in Information science.
 
